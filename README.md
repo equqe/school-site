@@ -1,4 +1,5 @@
 # school-site
+# landing version: https://github.com/equqe/sol-school-lite
 
 ## stack
 
